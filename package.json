@@ -1,0 +1,15 @@
+{
+    "id": "clockify",
+    "name": "Clockify",
+    "version": "1.0.0",
+    "description": "Clockify",
+    "main": "index.js",
+    "author": "Alex Burghuber <aburg.273@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/aburgx/recipe-clockify",
+    "config": {
+      "serviceURL": "https://clockify.me/tracker",
+      "hasTeamId": false
+    }
+  }
+  
